@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly enzyme 1`] = `
+<Fragment>
+  <Header />
+  <Addtodo
+    addtodo_item={[Function]}
+  />
+  <Todos
+    onDelete={[Function]}
+    todo_item={Array []}
+  />
+</Fragment>
+`;

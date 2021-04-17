@@ -1,0 +1,55 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly enzyme 1`] = `
+<div>
+  <nav>
+    <h1>
+      TODO
+    </h1>
+    <ul
+      className="nav-items"
+    >
+      <li>
+        <a
+          className="nav-cta"
+          href="#"
+        >
+          Home
+        </a>
+      </li>
+      <li>
+        <a
+          className="nav-cta"
+          href="#"
+        >
+          About Us
+        </a>
+      </li>
+      <li>
+        <a
+          className="nav-cta"
+          href="#"
+        >
+          Contact Us
+        </a>
+      </li>
+    </ul>
+    <div
+      className="search-box"
+    >
+      <img
+        alt="none"
+        color="#777"
+        height="24px"
+        padding-left="20px"
+        src="search.svg"
+      />
+      <input
+        className="inpt"
+        placeholder="Anything you want to search"
+        type="search"
+      />
+    </div>
+  </nav>
+</div>
+`;
