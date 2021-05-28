@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+It is a todo list Web application develop using Recttjs , nodejs, mongodb as well as to test the REST API i have use POSTMAN
 
 ## Available Scripts
 
